@@ -1,0 +1,18 @@
+[agent]
+agent_name=Lexi
+user_name=Cammy
+
+[openai]
+; https://platform.openai.com/
+api_key = <api_key>
+temperature = 1
+
+[elevenlabs]
+; https://beta.elevenlabs.io/
+api_key = <api_key>
+voice_id = <voice_id>
+
+[audio]
+; use "devices" command to list devices with indices
+; input_index=1
+; output_index=7

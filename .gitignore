@@ -1,0 +1,7 @@
+__pycache__
+/.vscode
+/config.ini
+/venv
+/.venv
+/.recording.m4a
+/.speech.mp3

@@ -1,0 +1,6 @@
+elevenlabslib
+numpy
+openai
+PyAudio
+pydub
+windows-curses
